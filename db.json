@@ -1,0 +1,81 @@
+[
+    {
+        "name":"Orange",
+        "single":"7!!",
+        "path":"./asset/music-list/1.mp3",
+        "img":"./asset/img/1.jpg"
+    },
+    {
+        "name":"Lemon",
+        "single":"Kenshi Yoneru",
+        "path":"./asset/music-list/2.mp3",
+        "img":"./asset/img/2.jpg"
+    },
+    {
+        "name":"Irony",
+        "single":"Majiko",
+        "path":"./asset/music-list/3.mp3",
+        "img":"./asset/img/3.jpg"
+    },
+    {
+        "name":"Yume to Hazuka",
+        "single":"Wotami",
+        "path":"./asset/music-list/4.mp3",
+        "img":"./asset/img/4.jpg"
+    },
+    {
+        "name":"Sakura",
+        "single":"Ikimonogakari",
+        "path":"./asset/music-list/5.mp3",
+        "img":"./asset/img/5.jpg"
+    },
+    {
+        "name":"Promise the World",
+        "single":"Kimura Yumi",
+        "path":"./asset/music-list/6.mp3",
+        "img":"./asset/img/6.jpg"
+    },
+    {
+        "name":"Itsumo Nando Demo",
+        "single":"Ha Mei",
+        "path":"./asset/music-list/7.mp3",
+        "img":"./asset/img/7.jpg"
+    },
+    {
+        "name":"Ngu Nghếch",
+        "single":"Hoàng Dũng",
+        "path":"./asset/music-list/8.mp3",
+        "img":"./asset/img/8.jpg"
+    },
+    {
+        "name":"Có hẹn với thanh xuân",
+        "single":"Monstar",
+        "path":"./asset/music-list/9.mp3",
+        "img":"./asset/img/9.jpg"
+    },
+    {
+        "name":"Cưới thôi",
+        "single":"Masew ft. B-ray",
+        "path":"./asset/music-list/10.mp3",
+        "img":"./asset/img/10.jpg"
+    },
+    {
+        "name":"Sài gòn đau lòng quá",
+        "single":"Hứa Kim Tuyền, Hoàng Dương",
+        "path":"./asset/music-list/11.mp3",
+        "img":"./asset/img/11.jpg"
+    },
+    {
+        "name":"Dù cho mai về sau",
+        "single":"buitruonglinh",
+        "path":"./asset/music-list/12.mp3",
+        "img":"./asset/img/12.jpg"
+    },
+    {
+        "name":"Đường tôi trở em về",
+        "single":"buitruonglinh",
+        "path":"./asset/music-list/13.mp3",
+        "img":"./asset/img/13.jpg"
+    }
+    
+]
